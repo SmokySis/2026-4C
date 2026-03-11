@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# 过大的资产
+Content/WaterVillage
+Content/JiangNan
